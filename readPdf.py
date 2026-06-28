@@ -14,4 +14,4 @@ def load_pdf(file_path):
     pages = loader.load()
     return pages
 
-print(load_pdf("./The Future of Generative AI.pdf"))
+# print(load_pdf("./The Future of Generative AI.pdf"))
